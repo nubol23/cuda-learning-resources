@@ -1,0 +1,5 @@
+/home/nvd/Documents/CUDA/CudaCourse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nvd/Documents/CUDA/CudaCourse/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nvd/Documents/CUDA/CudaCourse/cmake-build-debug/Problem Sets/Problem Set 1/CMakeFiles/rebuild_cache.dir
+/home/nvd/Documents/CUDA/CudaCourse/cmake-build-debug/Problem Sets/Problem Set 1/CMakeFiles/HW1.dir
+/home/nvd/Documents/CUDA/CudaCourse/cmake-build-debug/Problem Sets/Problem Set 1/CMakeFiles/edit_cache.dir

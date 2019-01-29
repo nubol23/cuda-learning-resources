@@ -1,0 +1,18 @@
+/home/nvd/Documents/Installers/clion-2018.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/nvd/Documents/CUDA/cs344/Problem Sets/Problem Set 1"
+CMake Error at CMakeLists.txt:14 (CUDA_ADD_EXECUTABLE):
+  Unknown CMake command "CUDA_ADD_EXECUTABLE".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.13)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
+See also "/home/nvd/Documents/CUDA/cs344/Problem Sets/Problem Set 1/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/nvd/Documents/CUDA/cs344/Problem Sets/Problem Set 1/cmake-build-debug/CMakeFiles/CMakeError.log".
